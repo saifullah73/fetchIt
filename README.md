@@ -114,6 +114,10 @@ fetchIt follow the following relevance sorting:
 ## User Interface
 The project has a very simple User Interface using tkinter library of python.
 
+![](Screenshots/home.png)
+![](Screenshots/result.png)
+![](Screenshots/article.png)
+
 
 
 ## How to Use
